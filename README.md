@@ -69,10 +69,12 @@ Different charts were used to communicate the findings, compare health indicator
 
 ### Step 6: Dashboard Development
 An interactive dashboard was designed with a condition slicer, allowing users to filter the analysis and explore the results for individual conditions.
+<img width="1917" height="893" alt="Screenshot 2026-11-27 093901" src="https://github.com/user-attachments/assets/f84e4d8d-293d-4eea-9e79-59704a0e803e" />
 
 ## 6. Dashboard Components
 
 The dashboard contains the following visualisations:
+
 
 **A. KPI Cards**
 
