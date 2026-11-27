@@ -3,11 +3,13 @@
 
 ## Project Overview
 
-This project focuses on analysing diagnostic pathology test results to understand patterns in patients' health indicators across different health conditions.
+The Diagnostic Pathology Test Results Analysis is a healthcare data analytics project focused on exploring patients' diagnostic test results and identifying patterns in important medical biomarkers across different health conditions.
 
-Using Microsoft Power BI, I developed an interactive dashboard to examine important medical measurements, including blood glucose, HbA1C, blood pressure, cholesterol, haemoglobin, MCV, and triglycerides.
+The dataset was designed to support healthcare research, disease-risk assessment, and machine learning classification by using nine key medical indicators to classify individuals into five health condition categories: Fit, Anaemia, Hypertension, Diabetes, and High Cholesterol.
 
-The analysis explores patient distribution across five health conditions and compares average diagnostic measurements to identify patterns, differences, and possible relationships between health indicators.
+For this project, I used Microsoft Power BI to perform descriptive analysis and exploratory data analysis (EDA), transforming the diagnostic dataset into an interactive dashboard.
+
+The dashboard provides insights into patient distribution, average medical measurements, comparisons across health conditions, and relationships between selected diagnostic indicators.
 
 ## Project Objectives
 
